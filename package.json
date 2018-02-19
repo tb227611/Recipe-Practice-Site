@@ -1,0 +1,22 @@
+{
+  "name": "recipe-practice-site",
+  "version": "1.0.0",
+  "description": "Upload and create Recipes online",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tb227611/Recipe-Practice-Site.git"
+  },
+  "author": "Tyler Blust",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tb227611/Recipe-Practice-Site/issues"
+  },
+  "homepage": "https://github.com/tb227611/Recipe-Practice-Site#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
